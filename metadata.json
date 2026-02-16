@@ -1,0 +1,8 @@
+{
+  "name": "SAKO - AI Education Infrastructure",
+  "description": "An enterprise-grade, AI-powered learning platform featuring structured curriculum, real-time AI tutoring, and comprehensive administrative controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
